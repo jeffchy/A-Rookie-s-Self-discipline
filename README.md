@@ -1,6 +1,9 @@
 # A-Rookie's-Self-discipline
 Useful personal study resource collection, keep updating.
-
+### NLP Open Course
+https://www.coursera.org/learn/language-processing/home/welcome Coursera by HSE <br>
+https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6 Stanford CS224n <br>
+http://www.cs.columbia.edu/~mcollins/ columbia M.Collins <br>
 ### Some NLP data corpus 
 https://mp.weixin.qq.com/s/myg_PCdHB3DUtdA7ROmTOg Great Summary <br>
 https://github.com/awesomedata/awesome-public-datasets#naturallanguage NLP public dataset <br>
