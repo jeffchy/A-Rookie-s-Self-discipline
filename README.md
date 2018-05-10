@@ -9,6 +9,7 @@ https://github.com/awesomedata/awesome-public-datasets General Dataset <br>
 ### Word2Vec
 https://zhuanlan.zhihu.com/p/26306795 Zhihu Intro <br>
 http://www.52nlp.cn/tag/word2vec. 52NLP some practical <br>
+https://www.cnblogs.com/peghoty/p/3857839.html Great intro in ZH, author: peghoty <br>
 ### RNN&LSTM
 http://karpathy.github.io/2015/05/21/rnn-effectiveness/  Andrej Karpathy interesting blog <br>
 ### SVM
