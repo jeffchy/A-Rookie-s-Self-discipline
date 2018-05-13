@@ -20,5 +20,7 @@ http://cs231n.github.io/linear-classify/   CS231 Notes <br>
 ### Softmax
 http://cs231n.github.io/linear-classify/.  CS231 Notes <br>
 https://www.zhihu.com/question/23765351/answer/139826397 <br>
+### Reinforcement learning
+https://arxiv.org/pdf/1711.07478.pdf DQN <br>
 ### Meta Learning
 https://zhuanlan.zhihu.com/p/28639662. Good Zhihu Summary  <br>
