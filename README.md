@@ -29,3 +29,4 @@ https://zhuanlan.zhihu.com/p/28639662. Good Zhihu Summary  <br>
 
 ## Basic Thr
 https://zh.wikipedia.org/wiki/%E6%9C%B4%E7%B4%A0%E8%B4%9D%E5%8F%B6%E6%96%AF%E5%88%86%E7%B1%BB%E5%99%A8 Naive Bayes
+https://www.youtube.com/watch?v=OAl6eAyP-yo fxxking good ROC Curve intro
