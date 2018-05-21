@@ -15,13 +15,15 @@ http://www.52nlp.cn/tag/word2vec. 52NLP some practical <br>
 https://www.cnblogs.com/peghoty/p/3857839.html Great intro in ZH, author: peghoty <br>
 ### RNN&LSTM
 http://karpathy.github.io/2015/05/21/rnn-effectiveness/  Andrej Karpathy interesting blog <br>
+https://www.zybuluo.com/hanbingtao/note/581764 great blog for LSTM <br>
 ### SVM
 http://cs231n.github.io/linear-classify/   CS231 Notes <br>
 ### Softmax
 http://cs231n.github.io/linear-classify/.  CS231 Notes <br>
 https://www.zhihu.com/question/23765351/answer/139826397 <br>
 ### Deep Learning in General
-https://www.youtube.com/watch?v=vq2nnJ4g6N0 A Brief Navigation
+https://www.youtube.com/watch?v=vq2nnJ4g6N0 A Brief Navigation <br>
+https://www.zybuluo.com/hanbingtao/note/581764 great blog DL <br>
 ### Reinforcement learning
 https://arxiv.org/pdf/1711.07478.pdf DQN <br>
 ### Meta Learning
