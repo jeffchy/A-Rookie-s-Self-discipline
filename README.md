@@ -28,9 +28,10 @@ https://www.zybuluo.com/hanbingtao/note/581764 great blog DL <br>
 https://arxiv.org/pdf/1711.07478.pdf DQN <br>
 ### Meta Learning
 https://zhuanlan.zhihu.com/p/28639662. Good Zhihu Summary  <br>
-
 ## Basic Thr and tutorial of Machine Learning
 https://zh.wikipedia.org/wiki/%E6%9C%B4%E7%B4%A0%E8%B4%9D%E5%8F%B6%E6%96%AF%E5%88%86%E7%B1%BB%E5%99%A8 Naive Bayes <br>
 https://www.youtube.com/watch?v=OAl6eAyP-yo fxxking good ROC Curve intro <br>
 https://www.youtube.com/watch?v=mbyG85GZ0PI&index=0&list=PLnIDYuXHkit4LcWjDe0EwlE57WiGlBs08 unreasonably good machine learning tutorial based on Learning from Data, prof Yaser Caltech <br>
 https://search.bilibili.com/all?keyword=%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%9F%B3&from_source=banner_search&spm_id_from=333.334.banner_link.1 unreasonably good CHINESE machine learning tutorial based on Learning from Data, prof 林轩田, 台大<br>
+## Training Technics
+https://blog.csdn.net/crystal_zero/article/details/53281807 Co-training <br>
