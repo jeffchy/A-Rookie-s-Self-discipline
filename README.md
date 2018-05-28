@@ -13,9 +13,10 @@ https://github.com/awesomedata/awesome-public-datasets General Dataset <br>
 https://zhuanlan.zhihu.com/p/26306795 Zhihu Intro <br>
 http://www.52nlp.cn/tag/word2vec. 52NLP some practical <br>
 https://www.cnblogs.com/peghoty/p/3857839.html Great intro in ZH, author: peghoty <br>
-### RNN&LSTM
+### RNN&LSTM&GRU
 http://karpathy.github.io/2015/05/21/rnn-effectiveness/  Andrej Karpathy interesting blog <br>
 https://www.zybuluo.com/hanbingtao/note/581764 great blog for LSTM <br>
+https://deeplearning4j.org/cn/lstm Perfect overvieeeeww!!! <br>
 ### SVM
 http://cs231n.github.io/linear-classify/   CS231 Notes <br>
 ### Softmax
