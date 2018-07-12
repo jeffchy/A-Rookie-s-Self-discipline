@@ -30,6 +30,15 @@ https://www.youtube.com/watch?v=vq2nnJ4g6N0 A Brief Navigation <br>
 https://www.zybuluo.com/hanbingtao/note/581764 great blog DL <br>
 ### Reinforcement learning
 https://arxiv.org/pdf/1711.07478.pdf DQN <br>
+https://github.com/jeffchy/Artificial-Idiot A projects about 3D | partialy observed | deep learning RL <br>
+http://www.argmin.net/2018/02/20/reinforce/ GRRREEEAAAT Blog - critisizing Reinforce Algorithm (policy gradient) <br>
+### Image captioning
+Why I'm doing this? <br>
+https://github.com/tensorflow/models/tree/master/research/im2txt <br>
+https://arxiv.org/abs/1609.06647 SHOW AND TELL <br>
+above aare implementation and classic paper using DL(CNN+RNN) in this field <br> 
+https://arxiv.org/pdf/1502.03044.pdf SHOW ATTEND AND TELL attention model in image captioning (really well written paper!)<br>
+Soft attension is just REINFORCE! see this http://www.argmin.net/2018/02/20/reinforce/ <br>
 ### Meta Learning
 https://zhuanlan.zhihu.com/p/28639662. Good Zhihu Summary  <br>
 ## Basic Thr and tutorial of Machine Learning
