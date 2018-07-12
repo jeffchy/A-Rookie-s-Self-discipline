@@ -36,7 +36,7 @@ http://www.argmin.net/2018/02/20/reinforce/ GRRREEEAAAT Blog - critisizing Reinf
 Why I'm doing this? <br>
 https://github.com/tensorflow/models/tree/master/research/im2txt <br>
 https://arxiv.org/abs/1609.06647 SHOW AND TELL <br>
-above aare implementation and classic paper using DL(CNN+RNN) in this field <br> 
+above are implementation and classic paper using DL(CNN+RNN) in this field <br> 
 https://arxiv.org/pdf/1502.03044.pdf SHOW ATTEND AND TELL attention model in image captioning (really well written paper!)<br>
 Soft attension is just REINFORCE! see this http://www.argmin.net/2018/02/20/reinforce/ <br>
 ### Meta Learning
