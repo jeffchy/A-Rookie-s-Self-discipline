@@ -48,3 +48,7 @@ https://www.youtube.com/watch?v=mbyG85GZ0PI&index=0&list=PLnIDYuXHkit4LcWjDe0Ewl
 https://search.bilibili.com/all?keyword=%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%9F%B3&from_source=banner_search&spm_id_from=333.334.banner_link.1 unreasonably good CHINESE machine learning tutorial based on Learning from Data, prof 林轩田, 台大<br>
 ## Training Technics
 https://blog.csdn.net/crystal_zero/article/details/53281807 Co-training <br>
+
+## Natual Language Processing
+http://www.cs.columbia.edu/~mcollins/io.pdf PCFG Inside-outside Algorithm M.Collins
+
